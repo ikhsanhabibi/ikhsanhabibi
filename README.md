@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 🌎, I'm Ikhsan Habibi</h1>
-<h3 align="center">I identified myself as software engineer 👨‍💻</h3>
+<h3 align="center">I identify myself as software engineer 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhsanhabibi&label=Profile%20views&color=a8a8a8&style=flat" alt="ikhsanhabibi" /> </p>
 
